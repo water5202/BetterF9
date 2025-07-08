@@ -76,7 +76,7 @@ G2L["9"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["9"]["BackgroundTransparency"] = 1;
 G2L["9"]["Size"] = UDim2.new(0, 72, 0, 30);
 G2L["9"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["9"]["Text"] = [[Console Window [Water's Utils]]];
+G2L["9"]["Text"] = [[Console Window [Water's Utils] ]];
 G2L["9"]["Name"] = [[Display]];
 G2L["9"]["Position"] = UDim2.new(0.10658, 0, -0.02576, 0);
 
