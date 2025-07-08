@@ -9,11 +9,11 @@
 
 -- Instances: 11 | Scripts: 4 | Modules: 0 | Tags: 0
 local G2L = {};
-
+-- Anti Mutiple Gui
+if game:GetService("CoreGui"):FindFirstChild("ConsoleLog") then return warn("Already Loaded") end
 -- CoreGui.ConsoleLog
 G2L["1"] = Instance.new("ScreenGui", game:GetService("CoreGui"));
 G2L["1"]["Name"] = [[ConsoleLog]];
-
 
 -- StarterGui.ConsoleLog.Window
 G2L["2"] = Instance.new("Frame", G2L["1"]);
