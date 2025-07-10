@@ -1,6 +1,6 @@
 WIP, will be fully released soon try out the beta 
 #
-![alt text](https://img.shields.io/badge/Objects-%20Instances_20%20Scripts_7-blue)</br>
+![alt text](https://img.shields.io/badge/Objects-%20Instances_26%20Scripts_10-blue)</br>
 
 ![alt text](https://i.ibb.co/204dmc2f/consolewindow.png)
 #
